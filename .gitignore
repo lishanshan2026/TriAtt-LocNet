@@ -1,0 +1,12 @@
+﻿*.pt
+*.pth
+*.ckpt
+weights/
+log/
+tmp/
+outputs/
+ExperimentalResults/
+output_img/
+__pycache__/
+*.pyc
+.DS_Store
